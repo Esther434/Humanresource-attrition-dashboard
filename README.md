@@ -54,4 +54,4 @@ Answer one business question: **which employee groups and working conditions are
 
 **Esther**
 GitHub: [Esther434](https://github.com/Esther434)
-LinkedIn: add your link here
+LinkedIn:www.linkedin.com/in/orjiude-esther
