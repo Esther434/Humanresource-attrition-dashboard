@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard that explores why employees leave an organisation. It combines headline KPIs, slicers and charts to help HR teams spot the groups and working conditions most associated with attrition.
 
-![Dashboard preview](dashboard_png.png)
+![Dashboard preview](dashboard.png)
 
 ## Project Objective
 
